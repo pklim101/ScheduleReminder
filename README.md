@@ -2,7 +2,10 @@
 
 A feature-rich Chrome Extension for managing personal reminders with precision and ease. Built with React, TypeScript, and Vite.
 
-![Icon](public/icon128.png)
+
+<img width="400" height="600" alt="mainpage" src="https://github.com/user-attachments/assets/9bfc8099-bc3b-4124-98c7-57b9bc4cf4a5" />
+<img width="300" height="402" alt="alert" src="https://github.com/user-attachments/assets/dac33574-94a5-4541-98c8-545627b6abf1" />
+
 
 ## ✨ Features
 
